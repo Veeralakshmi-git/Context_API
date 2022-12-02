@@ -1,0 +1,34 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "My First Post testong",
+      "datetime": "December 02, 2022 12:33:55 PM",
+      "body": " amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My 5th post",
+      "datetime": "November 30, 2022 4:47:42 PM",
+      "body": "check it"
+    },
+    {
+      "id": 5,
+      "title": "My Fourth Post Testing",
+      "datetime": "December 02, 2022 11:01:39 AM",
+      "body": "check it once"
+    },
+    {
+      "id": 6,
+      "title": "My 6th post testing success",
+      "datetime": "December 02, 2022 1:28:09 PM",
+      "body": "check datacontext whether it is working or not"
+    },
+    {
+      "id": 7,
+      "title": "My 7th post testing",
+      "datetime": "December 02, 2022 1:30:54 PM",
+      "body": "it is working well and good"
+    }
+  ]
+}
